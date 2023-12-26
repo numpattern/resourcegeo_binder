@@ -1,0 +1,10 @@
+name: resourgeo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7.7
+  - pip
+  - pip:
+    - resourcegeo==0.1.7
+    - seaborn==0.12.2

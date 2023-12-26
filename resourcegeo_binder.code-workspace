@@ -4,5 +4,7 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"julia.environmentPath": "c:\\Users\\Haro\\Dropbox\\B29\\Devs\\Python\\packages\\resourcegeo_binder"
+	}
 }
