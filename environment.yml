@@ -6,5 +6,5 @@ dependencies:
   - python=3.7.7
   - pip
   - pip:
-    - resourcegeo==0.1.7
+    - resourcegeo==0.1.8
     - seaborn==0.12.2
